@@ -10,13 +10,13 @@ The shortest path nodes (pixels) are returned and are converted to white to disp
 
 ## Usage
 
-Run the script.
-Image will open
-Click and mouse left button at one point
-Relase mouse left button at another point
-Press 'c'
-New image will open showing the segment with white border
-You can press 'c' to close the new window and select the points again
+1. Run the script.
+2. Image will open
+3. Click and mouse left button at one point
+4. Relase mouse left button at another point
+5. Press 'c'
+6. New image will open showing the segment with white border
+7. You can press 'c' to close the new window and select the points again
 
 ## Technical Requirement
 
