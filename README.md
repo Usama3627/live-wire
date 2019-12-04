@@ -36,7 +36,7 @@ Tested on Ubuntu 19.04, Ubuntu 18.04, Windows 10 with Python 3.7
 This project has 3 contributors:
 * [Usama3627](https://github.com/Usama3627)
 * Ahmed
-* Abdullah
+* [Abdullah](https://github.com/M-Abd)
 
 We welcome and support contributions. Here is a list of tasks to do:
 
