@@ -1,8 +1,8 @@
 This project has 3 contributors:
 
-* Usama3627
-* Ahmed
-* Abdullah
+* [Usama3627](https://github.com/Usama3627)
+* [Ahmed](https://github.com/Usama3627/live-wire/invitations)
+* [Abdullah](https://github.com/M-Abd)
 
 We welcome and support contributions. Here is a list of tasks to do:
 
