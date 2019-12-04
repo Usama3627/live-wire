@@ -33,18 +33,7 @@ Tested on Ubuntu 19.04, Ubuntu 18.04, Windows 10 with Python 3.7
 
 ## Contributions
 
-This project has 3 contributors:
-* [Usama3627](https://github.com/Usama3627)
-* Ahmed
-* [Abdullah](https://github.com/M-Abd)
-
-We welcome and support contributions. Here is a list of tasks to do:
-
-* Undo the previous edge made
-* Apply cython to achieve faster results
-* Remove press and hold mouse click and replace with single clicks (better interface)
-* Select a point and click to get segementated part, now the last point should become first point and we will only need to click once for the second segmentation
-* Make the white border thicker (Perferably depending on the size of image)
+Check [contribution guidelines](https://github.com/Usama3627/live-wire/blob/master/CONTRIBUTING.md) for more information
 
 ## License
 GNU GPL V3
