@@ -34,7 +34,7 @@ Tested on Ubuntu 19.04, Ubuntu 18.04, Windows 10 with Python 3.7
 ## Contributions
 
 This project has 3 contributors:
-* Usama3627
+* [Usama3627](https://github.com/Usama3627)
 * Ahmed
 * Abdullah
 
@@ -49,4 +49,4 @@ We welcome and support contributions. Here is a list of tasks to do:
 ## License
 GNU GPL V3
 
-See the licnese for more information
+See the [License](https://github.com/Usama3627/live-wire/blob/master/LICENSE) for more information
