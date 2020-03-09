@@ -14,6 +14,7 @@ import time as t
 # Press and hold the mouse to select points
 # Press down left click for first point
 # Release mouse click for second point
+#code starts from here
 def click(event, x, y, flags, param):
     global retPt
     # if the left mouse button was clicked, record the starting
