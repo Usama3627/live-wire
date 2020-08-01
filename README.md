@@ -6,7 +6,7 @@ Livewire is a semi-automatic 2D image segmentation software. This implementation
 
 Image is read and converted to grayscale. It is converted in a undirected weight graph. The weights are calculated using simple gradient and each pixel is assigned weights (right and bottom). The edges of object gets the lowest weights. Dijkastra is used to compute the edge of object as it follows the shortest path.
 
-The shortest path nodes (pixels) are returned and are converted to white to display the edge. Next edge can be calculated.
+The shortest path nodes (pixels) are returned and are converted to white to display the edge. Next edge can be calculated likewise.
 
 ## Usage
 
