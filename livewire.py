@@ -28,13 +28,14 @@ def click(event, x, y, flags, param):
 
 
 start_time = t.time()
-img = cv.imread("2.jpg", 1)
+img = cv.imread("fixtures/default.png", 1)
 final = img.copy()
 img = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 vertex = img.copy()
 h, w = img.shape[1::-1]
 
 graph = Graph(undirected=True)
+theeta = 0
 
 # Iterating over an image and avoiding boundaries
 for i in range(1, w-1):
