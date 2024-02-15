@@ -1,8 +1,11 @@
-This project has 3 contributors:
+# CONTRIBUTING
+
+This project has 4 contributors:
 
 * [Usama3627](https://github.com/Usama3627)
 * [Ahmed](https://github.com/Usama3627/live-wire/invitations)
 * [Abdullah](https://github.com/M-Abd)
+* [Lucas Brito](https://github.com/Lucs1590)
 
 We welcome and support contributions. Here is a list of tasks to do:
 
